@@ -17,4 +17,4 @@ Contributions are welcome! If you have a new method to showcase or an improvemen
 
 ## About
 
-This repository is maintained by [Harshavardhan-Manavalan]. If you have any questions or suggestions, please feel free to reach out.
+This repository is maintained by [@Harshavardhan-Manavalan]. If you have any questions or suggestions, please feel free to reach out.
